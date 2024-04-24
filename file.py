@@ -1,0 +1,6 @@
+int_input=list(map(int,input('Enter integers separated by space:').split()))
+float_input=list(map(float,input('Enter float separated by space:').split()))
+string_input=list(input('Enter strings separated by space:').split())
+print(int_input)
+print(float_input)
+print(string_input)
